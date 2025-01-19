@@ -5,7 +5,7 @@ It provides an easy-to-use command-line interface to perform common operations, 
 
 ## Prerequisites
 
-Before using this application, ensure the following:
+Before using this application, ensure the following Nuget packages are installed:
 
 dotnet add package Spectre.Console --version 0.49.1  
 dotnet add package Newtonsoft.Json --version 13.0.3  
